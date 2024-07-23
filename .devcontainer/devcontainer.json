@@ -5,6 +5,7 @@
     "eamodio.gitlens",
     "mhutchie.git-graph",
     "formulahendry.auto-rename-tag",
-    "PKief.material-icon-theme"
+    "PKief.material-icon-theme",
+    "ms-playwright.playwright"
   ]
 }
